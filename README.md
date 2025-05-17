@@ -164,8 +164,8 @@ Potential extensions of this analysis include:
 
 This project is organized into two Jupyter notebooks:
 
-1. [**Capstone_Notebook1_DataProcessing_and_EDA.ipynb**]([1_Data_Processing_and_EDA.ipynb](https://github.com/cjplumer/module24_capstone_finalreport/blob/4520a5b377638ccd2b8ab84c431dcf47a88caf0c/Capstone_Notebook1_DataProcessing_and_EDA.ipynb)) - Data processing, feature engineering, and exploratory data analysis
-2. [**Capstone_Notebook2_Modeling_and_Evaluation.ipynb**]([2_Modeling_and_Evaluation.ipynb](https://github.com/cjplumer/module24_capstone_finalreport/blob/4520a5b377638ccd2b8ab84c431dcf47a88caf0c/Capstone_Notebook2_Modeling_and_Evaluation.ipynb)) - Model development, comparison, evaluation, and interpretation
+1. [**Capstone_Notebook1_DataProcessing_and_EDA.ipynb**](https://github.com/cjplumer/module24_capstone_finalreport/blob/main/Capstone_Notebook1_DataProcessing_and_EDA.ipynb) - Data processing, feature engineering, and exploratory data analysis
+2. [**Capstone_Notebook2_Modeling_and_Evaluation.ipynb**](https://github.com/cjplumer/module24_capstone_finalreport/blob/main/Capstone_Notebook2_Modeling_and_Evaluation.ipynb) - Model development, comparison, evaluation, and interpretation
 
 Intermediate processed datasets are saved in the `processed_data` directory, and the trained models are saved in the `models` directory.
 
