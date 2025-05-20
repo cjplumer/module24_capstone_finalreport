@@ -1,6 +1,6 @@
 # Capstone Submission: Predicting Optimal Ski Conditions and Season Length in Lake Tahoe
 
-![Ski Resort Image](https://images.unsplash.com/photo-1551524559-8af4e6624178?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80)
+![Skier Daffy Image](Images/Skier_Daffy.png)
 
 ## Executive Summary
 
