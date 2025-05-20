@@ -1,10 +1,10 @@
-# Capstone Submission: Predicting Optimal Ski Conditions and Season Length in Lake Tahoe
+# Capstone Submission: Predicting Ski Season Length for Lake Tahoe Resorts
 
 ![Skier Daffy Image](Images/Skier_Daffy.png)
 
 ## Executive Summary
 
-This project explores how machine learning models can predict optimal ski conditions and season length for Lake Tahoe ski resorts by analyzing historical weather patterns and climate indicators. Using data from multiple sources, we identified the key factors influencing ski season duration in the Lake Tahoe region.
+This project explores how machine learning models can predict optimal snow conditions and season length for Lake Tahoe ski resorts by analyzing historical weather patterns and climate indicators. Using data from multiple sources, we identified the key factors influencing ski season duration in the Lake Tahoe region.
 
 We compared three different regression models (Random Forest, Gradient Boosting, and Support Vector Regression) and found that the Random Forest model achieved the best predictive capability with an R² score of 0.36, explaining a significant portion of the variance in season length despite the inherent complexity and variability of weather systems.
 
@@ -19,7 +19,7 @@ These findings provide actionable insights for ski resort operations, marketing 
 
 ## Research Question
 
-How can machine learning models predict optimal ski conditions and season length for Lake Tahoe ski resorts by analyzing historical weather patterns and climate indicators?
+How can machine learning models predict optimal snow conditions and season length for Lake Tahoe ski resorts by analyzing historical weather patterns and climate indicators?
 
 ## Background and Motivation
 
